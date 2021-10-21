@@ -1,0 +1,27 @@
+/* background-image:url(https://pm1.narvii.com/7540/34730d38b989a939fd8dada3a8545c72fe28c7d2r5-1080-1597_00.jpg) ;
+background-repeat: no-repeat;
+background-size: 34%;
+width: 1250px;
+height: 1600px;
+background-color: #1F456E; */
+/* body{
+background-position: center top;
+} */
+
+.Wrapper {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+}
+.AllImages {
+  border: 11px solid rgb(210, 89, 24);
+  /* background-image:{} */
+  text-align: center;
+  /* padding: 20px */
+}
+.directory-component {
+  background-color: rgba(234, 127, 45, 0.503);
+  display: grid;
+}
+.DealsImages {
+  border: 10px solid rgb(98, 21, 199);
+}
